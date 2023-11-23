@@ -1,0 +1,16 @@
+C:\Users\dmitriybirukov\source\repos\lab_08\Task__01\bin\Debug\net6.0-windows\Task__01.exe
+C:\Users\dmitriybirukov\source\repos\lab_08\Task__01\bin\Debug\net6.0-windows\Task__01.deps.json
+C:\Users\dmitriybirukov\source\repos\lab_08\Task__01\bin\Debug\net6.0-windows\Task__01.runtimeconfig.json
+C:\Users\dmitriybirukov\source\repos\lab_08\Task__01\bin\Debug\net6.0-windows\Task__01.dll
+C:\Users\dmitriybirukov\source\repos\lab_08\Task__01\bin\Debug\net6.0-windows\Task__01.pdb
+C:\Users\dmitriybirukov\source\repos\lab_08\Task__01\obj\Debug\net6.0-windows\Task__01.Form1.resources
+C:\Users\dmitriybirukov\source\repos\lab_08\Task__01\obj\Debug\net6.0-windows\Task__01.csproj.GenerateResource.cache
+C:\Users\dmitriybirukov\source\repos\lab_08\Task__01\obj\Debug\net6.0-windows\Task__01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitriybirukov\source\repos\lab_08\Task__01\obj\Debug\net6.0-windows\Task__01.AssemblyInfoInputs.cache
+C:\Users\dmitriybirukov\source\repos\lab_08\Task__01\obj\Debug\net6.0-windows\Task__01.AssemblyInfo.cs
+C:\Users\dmitriybirukov\source\repos\lab_08\Task__01\obj\Debug\net6.0-windows\Task__01.csproj.CoreCompileInputs.cache
+C:\Users\dmitriybirukov\source\repos\lab_08\Task__01\obj\Debug\net6.0-windows\Task__01.dll
+C:\Users\dmitriybirukov\source\repos\lab_08\Task__01\obj\Debug\net6.0-windows\refint\Task__01.dll
+C:\Users\dmitriybirukov\source\repos\lab_08\Task__01\obj\Debug\net6.0-windows\Task__01.pdb
+C:\Users\dmitriybirukov\source\repos\lab_08\Task__01\obj\Debug\net6.0-windows\Task__01.genruntimeconfig.cache
+C:\Users\dmitriybirukov\source\repos\lab_08\Task__01\obj\Debug\net6.0-windows\ref\Task__01.dll

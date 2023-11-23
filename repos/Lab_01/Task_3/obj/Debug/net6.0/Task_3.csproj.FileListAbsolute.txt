@@ -1,0 +1,14 @@
+C:\Users\dmitriybirukov\source\repos\Lab_01\Task_3\bin\Debug\net6.0\Task_3.exe
+C:\Users\dmitriybirukov\source\repos\Lab_01\Task_3\bin\Debug\net6.0\Task_3.deps.json
+C:\Users\dmitriybirukov\source\repos\Lab_01\Task_3\bin\Debug\net6.0\Task_3.runtimeconfig.json
+C:\Users\dmitriybirukov\source\repos\Lab_01\Task_3\bin\Debug\net6.0\Task_3.dll
+C:\Users\dmitriybirukov\source\repos\Lab_01\Task_3\bin\Debug\net6.0\Task_3.pdb
+C:\Users\dmitriybirukov\source\repos\Lab_01\Task_3\obj\Debug\net6.0\Task_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitriybirukov\source\repos\Lab_01\Task_3\obj\Debug\net6.0\Task_3.AssemblyInfoInputs.cache
+C:\Users\dmitriybirukov\source\repos\Lab_01\Task_3\obj\Debug\net6.0\Task_3.AssemblyInfo.cs
+C:\Users\dmitriybirukov\source\repos\Lab_01\Task_3\obj\Debug\net6.0\Task_3.csproj.CoreCompileInputs.cache
+C:\Users\dmitriybirukov\source\repos\Lab_01\Task_3\obj\Debug\net6.0\Task_3.dll
+C:\Users\dmitriybirukov\source\repos\Lab_01\Task_3\obj\Debug\net6.0\refint\Task_3.dll
+C:\Users\dmitriybirukov\source\repos\Lab_01\Task_3\obj\Debug\net6.0\Task_3.pdb
+C:\Users\dmitriybirukov\source\repos\Lab_01\Task_3\obj\Debug\net6.0\Task_3.genruntimeconfig.cache
+C:\Users\dmitriybirukov\source\repos\Lab_01\Task_3\obj\Debug\net6.0\ref\Task_3.dll

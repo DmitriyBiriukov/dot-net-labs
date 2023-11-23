@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L7m+JqlrQNqomzLSa6TJvAHK5cD7KTEBQjR4NuRUsjgTklOmLmQg69ykKPVyA6SZU5H8RRuVH6n+XZGGOQ+UNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dmitriybirukov\\source\\repos\\Lab01\\Task_04\\Task_04.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dmitriybirukov\\.nuget\\packages\\consoletables\\2.5.0\\consoletables.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
